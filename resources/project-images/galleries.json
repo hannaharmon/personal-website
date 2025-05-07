@@ -1,0 +1,57 @@
+[
+    {
+      "name" : "Grim Encounters",
+      "images" : [
+          {
+            "src": "./resources/project-images/ge1.png",
+            "alt": "Grim Encounters screenshot"
+          },
+          {
+            "src": "./resources/project-images/ge2.png",
+            "alt": "Grim Encounters screenshot"
+          },
+          {
+            "src": "./resources/project-images/ge3.png",
+            "alt": "Grim Encounters screenshot"
+          }
+      ]
+    },
+    {
+      "name" : "The Art of The Climb",
+      "images" : [
+          {
+            "src": "./resources/project-images/aotc1.png",
+            "alt": "The Art of The Climb screenshot"
+          },
+          {
+            "src": "./resources/project-images/aotc2.png",
+            "alt": "The Art of The Climb screenshot"
+          },
+          {
+            "src": "./resources/project-images/aotc3.png",
+            "alt": "The Art of The Climb screenshot"
+          },
+          {
+            "src": "./resources/project-images/aotc4.png",
+            "alt": "The Art of The Climb screenshot"
+          }
+      ]
+    },
+    {
+      "name" : "tREVia",
+      "images" : [
+          {
+            "src": "./resources/project-images/trev1.png",
+            "alt": "tREVia screenshot"
+          },
+          {
+            "src": "./resources/project-images/trev2.png",
+            "alt": "tREVia screenshot"
+          },
+          {
+            "src": "./resources/project-images/trev3.png",
+            "alt": "tREVia screenshot"
+          }
+      ]
+    }
+  ]

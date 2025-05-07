@@ -1,0 +1,104 @@
+body {
+    font-family: 'Source Code Pro', monospace;
+    margin: 0;
+    padding: 20px;
+    background-color: #f5f5f5;
+    color: #333;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.darkmode {
+    background-color: #1e1e1e;
+    color: #ddd;
+}
+
+header h1 {
+    font-size: 3em;
+    margin-bottom: 20px;
+}
+
+#navbar {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 10px 0;
+    background-color: #007acc;
+    color: white;
+}
+
+#navbar .tab, #navbar .light-button {
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+    margin: 0 5px;
+    background-color: #007acc;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    display: flex;
+    align-items: center;
+}
+
+#navbar .tab:hover, #navbar .light-button:hover {
+    background-color: #005b99;
+}
+
+.comment {
+    color: #6a9955; /* Comment color for light mode */
+    font-size: 1.2em;
+}
+
+.darkmode .comment {
+    color: #57a64a;
+}
+
+textarea {
+    width: 100%;
+    height: 300px;
+    padding: 10px;
+    font-family: 'Source Code Pro', monospace;
+    background-color: #333;
+    color: #fff;
+    border: 1px solid #555;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    resize: vertical;
+}
+
+.darkmode textarea {
+    background-color: #1e1e1e;
+    color: #ddd;
+}
+
+h2 {
+    font-size: 2em;
+    margin-top: 40px;
+}
+
+a {
+    color: #007acc;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.darkmode a {
+    color: #569cd6;
+}
+
+main {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+    #navbar {
+        flex-direction: column;
+    }
+
+    #navbar .tab {
+        margin: 5px 0;
+    }
+}
