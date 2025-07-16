@@ -53,5 +53,76 @@
             "alt": "tREVia screenshot"
           }
       ]
+    },
+    {
+      "name" : "Wiz-Herd",
+      "images" : [
+          {
+            "src": "./resources/project-images/wh1.png",
+            "alt": "Wiz-Herd screenshot"
+          },
+          {
+            "src": "./resources/project-images/wh2.jpg",
+            "alt": "Wiz-Herd screenshot"
+          },
+          {
+            "src": "./resources/project-images/wh3.jpg",
+            "alt": "Wiz-Herd screenshot"
+          },
+          {
+            "src": "./resources/project-images/wh5.jpg",
+            "alt": "Wiz-Herd screenshot"
+          },
+          {
+            "src": "./resources/project-images/wh7.jpg",
+            "alt": "Wiz-Herd screenshot"
+          }
+      ]
+    },
+    {
+      "name" : "In Times of Crypsis",
+      "images" : [
+          {
+            "src": "./resources/project-images/tc1.png",
+            "alt": "In Times of Crypsis screenshot"
+          },
+          {
+            "src": "./resources/project-images/tc2.png",
+            "alt": "In Times of Crypsis screenshot"
+          },
+          {
+            "src": "./resources/project-images/tc3.png",
+            "alt": "In Times of Crypsis screenshot"
+          },
+          {
+            "src": "./resources/project-images/tc4.png",
+            "alt": "In Times of Crypsis screenshot"
+          }
+      ]
+    },
+    {
+      "name" : "Train of Thought",
+      "images" : [
+          {
+            "src": "./resources/project-images/tt1.png",
+            "alt": "Train of Thought screenshot"
+          },
+          {
+            "src": "./resources/project-images/tt5.png",
+            "alt": "Train of Thought screenshot"
+          },
+          {
+            "src": "./resources/project-images/tt2.png",
+            "alt": "Train of Thought screenshot"
+          },
+          {
+            "src": "./resources/project-images/tt3.png",
+            "alt": "Train of Thought screenshot"
+          },
+          {
+            "src": "./resources/project-images/tt4.png",
+            "alt": "Train of Thought screenshot"
+          }
+      ]
     }
   ]
