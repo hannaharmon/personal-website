@@ -1,5 +1,39 @@
 [
     {
+      "name" : "Crumple Quest",
+      "images" : [
+          {
+            "src": "./resources/project-images/cq1.png",
+            "alt": "Crumple Quest screenshot"
+          },
+          {
+            "src": "./resources/project-images/cq2.png",
+            "alt": "Crumple Quest screenshot"
+          },
+          {
+            "src": "./resources/project-images/cq3.png",
+            "alt": "Crumple Quest screenshot"
+          }
+      ]
+    },
+    {
+      "name" : "Pawsitivity",
+      "images" : [
+          {
+            "src": "./resources/project-images/pa1.png",
+            "alt": "Pawsitivity screenshot"
+          },
+          {
+            "src": "./resources/project-images/pa2.png",
+            "alt": "Pawsitivity screenshot"
+          },
+          {
+            "src": "./resources/project-images/pa3.png",
+            "alt": "Pawsitivity screenshot"
+          }
+      ]
+    },
+    {
       "name" : "Grim Encounters",
       "images" : [
           {
